@@ -168,7 +168,7 @@ position: relative;
 .img2 {
     background-size: cover;
     background-position: center;
-    background-image: url(i2.jpg);
+    background-image: url(2.jpg);
     grid-column: 3/5;
     grid-row: 1/2;
 }
